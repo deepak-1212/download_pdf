@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PdfDownload</string>
+    <string name="download_pdf">Download Pdf</string>
+</resources>
